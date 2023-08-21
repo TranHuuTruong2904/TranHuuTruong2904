@@ -13,7 +13,7 @@ Tran Huu Truong. I'm from Viet Nam. My dream is to become a software engineer.
 
 - 👨‍🎓 I’m currently learning Software Technology
   
-- 👨‍💻 All of my projects are available at **[here](https://github.com/TranHuuTruong2904)**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/thtruong2904)**
 
 - 📫 How to reach me **tranhuutruong290401@gmail.com**
 
@@ -30,7 +30,7 @@ Tran Huu Truong. I'm from Viet Nam. My dream is to become a software engineer.
 
 ## 🏃‍♂️ Github Streak
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TranHuuTruong2904&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thtruong2904&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ## 🌟 Github Stats
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -43,7 +43,7 @@ Tran Huu Truong. I'm from Viet Nam. My dream is to become a software engineer.
 ## 🌎 Connect with me:
 <p align="left">
 
-<a href = "https://github.com/TranHuuTruong2904"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href = "https://github.com/thtruong2904"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 <a href = "https://www.facebook.com/muonsquen.quaskhu/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "mailto: tranhuutruong290401@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
 </p>
@@ -54,11 +54,11 @@ Tran Huu Truong. I'm from Viet Nam. My dream is to become a software engineer.
 <table>
   <tr>
 <td align="center">
-     <a href="https://github.com/TranHuuTruong2904">
+     <a href="https://github.com/thtruong2904">
        <img src="https://avatars.githubusercontent.com/u/83656656?v=4" width="100px;" alt="TranHuuTruong"/>
      </a>
      <br />
-     <a href="https://github.com/TranHuuTruong2904">Tran Huu Truong</a>
+     <a href="https://github.com/thtruong2904">Tran Huu Truong</a>
   </td>
   <td align="center">
      <a href="https://github.com/harrynguci">
@@ -71,4 +71,4 @@ Tran Huu Truong. I'm from Viet Nam. My dream is to become a software engineer.
 </table>
 <!-- FOLLOWER-LIST:END -->
 
-## ![](https://komarev.com/ghpvc/?username=TranHuuTruong2904&color=238dd9&style=flat&label=VIEWS)
+## ![](https://komarev.com/ghpvc/?username=thtruong2904&color=238dd9&style=flat&label=VIEWS)
