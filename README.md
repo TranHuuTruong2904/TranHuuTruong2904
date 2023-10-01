@@ -60,13 +60,6 @@ Tran Huu Truong. I'm from Viet Nam. My dream is to become a software engineer.
      <br />
      <a href="https://github.com/thtruong2904">Tran Huu Truong</a>
   </td>
-  <td align="center">
-     <a href="https://github.com/harrynguci">
-       <img src="https://avatars.githubusercontent.com/u/105778176?v=4" width="100px;" alt="PhuocHieu"/>
-     </a>
-     <br />
-     <a href="https://github.com/harrynguci">Pham Quang Phuoc Hieu</a>
-  </td>
 		  </tr>
 </table>
 <!-- FOLLOWER-LIST:END -->
