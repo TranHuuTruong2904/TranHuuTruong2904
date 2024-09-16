@@ -44,7 +44,6 @@ Tran Huu Truong. I'm from Viet Nam. My dream is to become a software engineer.
 <p align="left">
 
 <a href = "https://github.com/thtruong2904"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-<a href = "https://www.facebook.com/muonsquen.quaskhu/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "mailto: tranhuutruong290401@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
 </p>
 
