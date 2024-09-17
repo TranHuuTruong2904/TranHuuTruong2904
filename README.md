@@ -15,7 +15,7 @@ Tran Huu Truong. I'm from Viet Nam. My dream is to become a software engineer.
   
 - 👨‍💻 All of my projects are available at **[here](https://github.com/thtruong2904)**
 
-- 📫 How to reach me **tranhuutruong290401@gmail.com**
+- 📫 How to reach me **truongtran2904.ptithcm@gmail.com**
 
 ## 🚀 Languages and Tools:
 
