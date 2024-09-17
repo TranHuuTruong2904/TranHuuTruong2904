@@ -9,7 +9,7 @@ Tran Huu Truong. I'm from Viet Nam. My dream is to become a software engineer.
 - Thank you for being here. I wish you all the best
 ## 👋 About Me
 
-- SĐT: 0985800754
+- SĐT: **0985800754**
 - 🏡 I was born and grown up in **[Ha Nam Province](https://vi.wikipedia.org/wiki/H%C3%A0_Nam)**
 
 - 👨‍🎓 I’m currently learning Software Technology
